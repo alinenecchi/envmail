@@ -5,9 +5,10 @@
 
 <p align="center">🚀 Projeto envio de e-mail automático com link rastro de transportadora e Danfe XML Ee PDF em anexo.</p>
 
- O que o programa é capaz de fazer :checkered_flag:
-:trophy: Gerar PDF da Danfe e xml  para envio de e-mail 
-> Status do Projeto: Em desenvolvimento :warning:
+ ## O que o programa é capaz de fazer :checkered_flag:
+<P>:trophy: Gerar PDF da Danfe e xml </P>
+<P>:trophy: Enviar os arquivos por email <P/>
+<P> > Status do Projeto: Em desenvolvimento :warning:</P>
 
 FONTE-> ENVIMAIL.PRW -> função -> User Function EnvMail()
 1. Configurar o SMTP para envio de relatórios por e-mail
