@@ -1,8 +1,10 @@
-## Envio de e-mail ADVPL
-#Programa em Advpl para envio de Danfe por email.
+<h1 align="center"> Envio de e-mail ADVPL </h1>
+<p align="justify"> Projeto envio de e-mail automático com link rastro de transportadora e Danfe XML Ee PDF em anexo. </p>
 
-#Projeto envio de e-mail automático com link rastro de transportadora e Danfe XML Ee PDF em
-anexo.
+## O que a programa é capaz de fazer :checkered_flag:
+:trophy: Gerar PDF da Danfe e xml  para envio de e-mail 
+
+> Status do Projeto: Em desenvolvimento :warning:
 
 FONTE-> ENVIMAIL.PRW -> função -> User Function EnvMail()
 1. Configurar o SMTP para envio de relatórios por e-mail
@@ -75,6 +77,8 @@ return
 endif 
 Endif 
 
+Link help para construção da página Readme!
+https://dev.to/reginadiana/como-escrever-um-readme-md-sensacional-no-github-4509
 
 
 
